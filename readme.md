@@ -44,6 +44,6 @@ The following items I plan to fix, improve, and/or add to this project in the fu
 
 * [ ] Add flip animation to the flashcards
 * [ ] Add more flashcards dynamically (database or API)
-* [ ]Improve UI design with themes and dark/light mode
+* [ ] Improve UI design with themes and dark/light mode
 
 
